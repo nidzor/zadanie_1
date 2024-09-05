@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+}
+
+img {
+    border: 2px solid black;
+    width: 100%;
+    margin: 0px;
+}
+
+
+
+#left_box_outer {
+    float:left;
+    width: 40%;
+}
+
+#right_box_outer {
+    float:left;
+    width: 60%;
+}
+#right_box_inner{
+    border: 2px solid black;
+    min-height: 78px;
+}
+
+#left_box_inner{
+    border: 2px solid black;
+    min-height: 78px;
+}
+
+.text {
+    margin: 1px;
+}
+
+.no_style_link{
+    text-decoration: none;
+    color: black;
+}
+
+.text{
+    font-family: Arial;
+    font-size: 18;
+}
